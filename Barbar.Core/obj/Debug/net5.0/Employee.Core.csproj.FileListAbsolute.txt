@@ -1,0 +1,12 @@
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.deps.json
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\ref\Employee.Core.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Employee.Core.pdb
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfoInputs.cache
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.AssemblyInfo.cs
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.CoreCompileInputs.cache
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\ref\Employee.Core.dll
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.pdb
+H:\Practise\Clean Architecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Employee.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Student.Core.deps.json
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Student.Core.dll
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\bin\Debug\net5.0\Student.Core.pdb
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.csproj.AssemblyReference.cache
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.AssemblyInfoInputs.cache
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.AssemblyInfo.cs
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.csproj.CoreCompileInputs.cache
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.dll
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\refint\Student.Core.dll
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\Student.Core.pdb
+C:\Rubol\Video\Code\Architecture\EmployeeManagementCleanArchitecture\EmployeeManagementCleanArchitecture\Employee.Core\obj\Debug\net5.0\ref\Student.Core.dll

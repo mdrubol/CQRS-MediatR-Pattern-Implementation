@@ -1,0 +1,17 @@
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Application.deps.json
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Application.dll
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Application.pdb
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Core.dll
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Infrastructure.dll
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Core.pdb
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\bin\Debug\net5.0\Barbar.Infrastructure.pdb
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.csproj.AssemblyReference.cache
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.AssemblyInfoInputs.cache
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.AssemblyInfo.cs
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.csproj.CoreCompileInputs.cache
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.csproj.CopyComplete
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.dll
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\refint\Barbar.Application.dll
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\Barbar.Application.pdb
+C:\Rubol\Video\Code\Architecture\BarbarShopManagementCleanArchitecture\BarbarShopManagementCleanArchitecture\Barbar.Application\obj\Debug\net5.0\ref\Barbar.Application.dll
