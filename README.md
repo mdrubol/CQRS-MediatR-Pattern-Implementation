@@ -1,4 +1,4 @@
-# CQRS-MediatR-Pattern-Implementation
+# CQRS-MediatR Pattern Implementation
 
 
 CQRS
