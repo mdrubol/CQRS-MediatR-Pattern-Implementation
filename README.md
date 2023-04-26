@@ -1,4 +1,4 @@
-# CQRS-MediatR Pattern Implementation
+# Clean Architecture : CQRS-MediatR Pattern Implementation
 
 
 CQRS
